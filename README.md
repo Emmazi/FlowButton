@@ -1,11 +1,11 @@
 # FlowButton
 FlowButton ( Android 5.0 materia Desgin style)
 
-FlowButton is an animate Button , extends from Button and set an OnTouchListener.
+FlowButton looks like an animated Button , extends from Button and implements from OnTouchListener.
 
-It works like the bottom picture, users can choose  color and the height of shadow.
+Users can choose  color and the height of shadow.
 
-According to different sorts of MotionEvent, Button turns into different backgrounds.
+According to different sorts of MotionEvent, Button turns into different status.
 
 You can see more in the code.
 
